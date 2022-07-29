@@ -146,7 +146,7 @@ Test admin access via `loclx.io` sub-domain
 
 ## 12. Software Development Kit
 
-Utilize the PocketBase Javascript `SDK` to consume the `API`.
+Utilize the PocketBase Javascript `SDK` ([pocketbase/js-sdk](https://github.com/pocketbase/js-sdk)) to consume the `API`.
 
 example `CRUD` code:
 
