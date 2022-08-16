@@ -91,7 +91,7 @@ brew install localxpose
 
 ### a. Sign up
 
-- [https://localxpose.io](https://localxpose.io)
+- [https://localxpose.io/?via=obsmd](https://localxpose.io/?via=obsmd) (← affiliate link)
 
 ### b. Login
 
